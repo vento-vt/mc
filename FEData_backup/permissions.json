@@ -77,10 +77,11 @@
       "command.give": "true",
       "fe.internal.player.known": "true"
     },
-    "(de7a587a-6ea1-3b35-b42b-1fc3e06b3e75|!madkrol2346**)": {
+    "(de7a587a-6ea1-3b35-b42b-1fc3e06b3e75|!madkrol2346**)": {},
+    "(1eddde1c-5094-3c0d-ad89-7ca12c1537d0|godzilla65536)": {
       "fe.internal.player.known": "true"
     },
-    "(1eddde1c-5094-3c0d-ad89-7ca12c1537d0|godzilla65536)": {
+    "(2001c9aa-bbf8-306c-9b60-485e8cc6e215|$NPC)": {
       "fe.internal.player.known": "true"
     }
   },
