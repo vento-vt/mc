@@ -1,0 +1,29 @@
+{
+  "ident": "(1eddde1c-5094-3c0d-ad89-7ca12c1537d0|godzilla65536)",
+  "lastTeleportOrigin": {
+    "dim": 0,
+    "pitch": 32.465714,
+    "yaw": -90.67729,
+    "xd": 178.42683692890822,
+    "yd": 71.0,
+    "zd": 115.80469198555741
+  },
+  "lastDeathLocation": {
+    "dim": 0,
+    "pitch": 32.465714,
+    "yaw": -90.67729,
+    "xd": 178.42683692890822,
+    "yd": 71.0,
+    "zd": 115.80469198555741
+  },
+  "lastTeleportTime": 0,
+  "selDim": 0,
+  "inventoryGroups": {},
+  "modInventoryGroups": {},
+  "activeInventoryGroup": "default",
+  "timePlayed": 1412278,
+  "firstLogin": "Aug 13, 2019 4:43:38 PM",
+  "lastLogin": "Aug 13, 2019 5:22:21 PM",
+  "lastLogout": "Aug 13, 2019 5:42:15 PM",
+  "namedTimeout": {}
+}
