@@ -1,5 +1,5 @@
 #Custom Ore Generation 1.2.24 Config Options
-#Fri Aug 16 12:20:49 MSK 2019
+#Fri Aug 16 12:59:18 MSK 2019
 ticoGoldGravelFreq=1.0
 vnlaGoldFreq=1.0
 enableAppliedEnergistics=true
